@@ -18,6 +18,9 @@ Learning by doing: focusing on practical problem-solving rather than overthinkin
 1. **Pb 1**: Problem description – [WordFrequencyAnalyser.md](./WordFrequencyAnalyser.md)
              Problem solution – [WordFrequencyAnalyser.py](./WordFrequencyAnalyser.py)
 - Notions to focus on (Strings, Lists, Tuples)
+2. **Pb 2**: Problem description – [ProductInventoryManagementSystem.md](./ProductInventoryManagementSystem.md)
+             Problem solution – [ProductInventoryManagementSystem.py](./ProductInventoryManagementSystem.py)
+- Notions to focus on (dictionaries, JSON)
 
 Feel free to explore each problem and review the Python code I've written to solve them!
 
