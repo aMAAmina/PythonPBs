@@ -21,7 +21,9 @@ Learning by doing: focusing on practical problem-solving rather than overthinkin
 2. **Pb 2**: Problem description – [ProductInventoryManagementSystem.md](./ProductInventoryManagementSystem.md)
              Problem solution – [ProductInventoryManagementSystem.py](./ProductInventoryManagementSystem.py)
 - Notions to focus on (dictionaries, JSON)
-
+3. **Pb 3**: Problem description – [csv_cleaning.md](./csv_cleaning.md)
+             Problem solution – [csv_cleaning.py](./csv_cleaning.py)
+- Notions to focus on (csv cleaning)
 Feel free to explore each problem and review the Python code I've written to solve them!
 
 ## Usage
